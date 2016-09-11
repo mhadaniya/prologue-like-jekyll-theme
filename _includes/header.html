@@ -1,0 +1,40 @@
+<div id="header">
+
+  <div class="top">
+
+    <!-- Logo -->
+      <div id="logo">
+        <span class="image avatar48"><img src= {{ site.avatar }} /></span>
+        <h1 id="title"> {{ site.author.name }} </h1>
+        <p> {{ site.author.title }} </p>
+      </div>
+
+    <!-- Nav -->
+      {% include nav.html %}
+
+  </div>
+
+  <div class="bottom">
+
+    <!-- Social Icons -->
+      <ul class="icons">
+        {% if site.social.twitter %}
+          <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+        {% endif %}
+        {% if site.social.facebook %}
+          <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+        {% endif %}
+        {% if site.social.github %}
+        <li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+        {% endif %}
+        {% if site.social.dribbble %}
+        <li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+        {% endif %}
+        {% if site.email %}
+        <li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
+        {% endif %}
+      </ul>
+
+  </div>
+
+</div>

@@ -1,0 +1,35 @@
+# Where things are
+source:       .
+destination:  ./_site
+plugins_dir:  _plugins
+layouts_dir:  _layouts
+data_dir:     _data
+includes_dir: _includes
+
+# Site settings
+title: Personal Jekyll theme based on Prologue by HTML5 UP.
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: ""
+url: ""
+avatar: images/avatar.png
+email: your-email@yourdomain.com
+copyright_name: Your/Project/Corporate Name
+
+# Build settings
+markdown: kramdown
+
+#Social media settings
+social:
+  twitter: username
+  github: username
+  facebook: username
+  linkedin: username
+
+#Author settings
+author:
+  name: Jane Doe
+  title: Hyperspace Engineer
+
+# Outputting
+liquid:
+  error_mode: warn

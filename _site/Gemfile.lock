@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    prologue-like-theme (0.1.0)
+    prologue-like-jekyll-theme (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -45,7 +45,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.12)
   jekyll (~> 3.2)
-  prologue-like-theme!
+  prologue-like-jekyll-theme!
   rake (~> 10.0)
 
 BUNDLED WITH

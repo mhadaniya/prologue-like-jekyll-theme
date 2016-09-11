@@ -1,7 +1,7 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "prologue-like-theme"
+  spec.name          = "prologue-like-jekyll-theme"
   spec.version       = "0.1.0"
   spec.authors       = ["Mario H. Adaniya"]
   spec.email         = ["mhadaniya@gmail.com"]
