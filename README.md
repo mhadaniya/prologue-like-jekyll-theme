@@ -4,7 +4,7 @@ Welcome! This is a new Jekyll theme! I'm using the [Prologue](https://html5up.ne
 
 ## Screenshot
 
-(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screenshot")
+![alt text](screenshot.png "Screenshot")
 
 ## Installation
 
