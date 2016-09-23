@@ -2,6 +2,9 @@
 
 Welcome! This is a new Jekyll theme! I'm using the [Prologue](https://html5up.net/prologue) theme from [HTML5 UP](https://html5up.net/) as a base to this Jekyll theme.
 
+## Screenshot
+
+(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screenshot")
 
 ## Installation
 
